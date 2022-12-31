@@ -1,0 +1,17 @@
+
+:root{
+    --textcolor: #
+}
+
+.head{
+    color: aqua
+}
+
+#bottom {
+	float: left;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	bottom: 0px;
+	width: 100%;
+}
